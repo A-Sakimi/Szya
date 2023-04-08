@@ -1,2 +1,2 @@
 # Szya
-expanded AI baed on SAkI
+expanded AI based on SAkI
